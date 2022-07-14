@@ -1,0 +1,69 @@
+{
+    "cidade":[
+        {
+            "nome":"",
+            "fala":[""]
+        },
+        {
+            "nome":"Bob",
+            "fala":[
+                ["Someone needs to rescue the princess!\nThe evil wizard took her as hostage"],
+                ["kkkkk"]
+            ]
+        },
+        {
+            "nome":"Alicia",
+            "fala":[
+                ["Who is going to teach good examples to our children\nnow that the wizard has taken over the city?"]
+            ]
+        },
+        {
+            "nome":"Junior",
+            "fala":[
+                ["I wanna go in that castle righ now and kill the weak wizard!\n When i grow up i will be a knight and rule this land like him"]
+            ]
+        },
+        {
+            "nome":"Fred",
+            "fala":[
+                ["Look at this wheat! How can this grow so fast?"]
+            ]
+        },
+        {
+            "nome":"Roberta",
+            "fala":[
+                ["Why everybody calls me coquettish? Just beacuse i enjoy\nnice-looking , strong and loving mans? Changing the subject\nAlex do you want go to tavern next friday?"]
+            ]
+        },
+        {
+            "nome":"Rob",
+            "fala":[
+                ["Next guy who go out with my sister will meet my fist.\nHey guy did you see my sister a redhead girl?"]
+            ]
+        },
+        {
+            "nome":"Smith",
+            "fala":[
+                ["Hey bro, whatsup?"]
+            ]
+        },
+        {
+            "nome":"Augusto",
+            "fala":[
+                ["Bem vindo a minha loja! Vai querer alguma coisa?"]
+            ]
+        },
+        {
+            "nome": "Lupus",
+            "fala":[
+                ["kkkkkkkk"]
+            ]
+        },
+        {
+            "nome": "Scoob",
+            "fala":[
+                ["uuuuuuuuuuuuuuuuuuuuuu"]
+            ]
+        }
+    ]
+}
